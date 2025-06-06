@@ -88,5 +88,5 @@ You can buy this book the following online stores:
 
 * Google Play Books: https://play.google.com/store/books/details?id=4ipiEQAAQBAJ 
 * Lulu: https://www.lulu.com/shop/agus-kurniawan/laravel-12-training-kit-a-practical-guide-to-modern-web-development/ebook/product-v8yg94n.html
-* Apple iBookstore: *tba*
+* Apple iBookstore: http://books.apple.com/us/book/id6746777869
 * Leanpub: https://leanpub.com/laravel12trainingkit
